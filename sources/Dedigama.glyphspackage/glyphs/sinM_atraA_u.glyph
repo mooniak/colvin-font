@@ -1,4 +1,5 @@
 {
+category = Mark;
 glyphname = sinMatraAu;
 layers = (
 {
@@ -24,5 +25,7 @@ UFO.identifier = 4FF14EDB;
 width = 1212;
 }
 );
+script = sinhala;
+subCategory = Spacing;
 unicode = 3550;
 }

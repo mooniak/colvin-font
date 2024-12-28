@@ -1,23 +1,26 @@
 {
+category = Mark;
 glyphname = sinMatraOo;
 layers = (
 {
 layerId = m001;
 shapes = (
 {
-pos = (784,0);
 ref = sinVirama;
 },
 {
-pos = (663,-3);
+pos = (1,0);
 ref = sinMatraAa;
 },
 {
+pos = (289,0);
 ref = sinMatraE;
 }
 );
-width = 955;
+width = 883;
 }
 );
+script = sinhala;
+subCategory = Spacing;
 unicode = 3549;
 }

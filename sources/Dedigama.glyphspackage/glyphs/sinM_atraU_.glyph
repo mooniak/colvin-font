@@ -1,4 +1,5 @@
 {
+category = Mark;
 glyphname = sinMatraU;
 layers = (
 {
@@ -41,5 +42,7 @@ nodes = (
 width = 0;
 }
 );
+script = sinhala;
+subCategory = Spacing;
 unicode = 3540;
 }

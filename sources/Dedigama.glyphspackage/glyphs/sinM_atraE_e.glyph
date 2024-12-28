@@ -1,19 +1,22 @@
 {
+category = Mark;
 glyphname = sinMatraEe;
 layers = (
 {
 layerId = m001;
 shapes = (
 {
-pos = (679,0);
 ref = sinVirama;
 },
 {
+pos = (1,0);
 ref = sinMatraE;
 }
 );
-width = 689;
+width = 595;
 }
 );
+script = sinhala;
+subCategory = Spacing;
 unicode = 3546;
 }
