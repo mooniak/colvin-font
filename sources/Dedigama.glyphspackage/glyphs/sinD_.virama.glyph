@@ -1,0 +1,26 @@
+{
+glyphname = sinD.virama;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+alignment = -1;
+ref = sinDa;
+userData = {
+UFO.identifier = 9AA16459;
+};
+},
+{
+alignment = -1;
+pos = (549,-2);
+ref = sinVirama;
+userData = {
+UFO.identifier = 2B436689;
+};
+}
+);
+width = 569;
+}
+);
+}

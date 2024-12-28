@@ -1,0 +1,28 @@
+{
+glyphname = sinvocalicRr;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+alignment = -1;
+pos = (-14,0);
+ref = sinVocalicR;
+userData = {
+UFO.identifier = 21A085B2;
+};
+},
+{
+alignment = -1;
+pos = (917,0);
+ref = sinMatraR;
+userData = {
+UFO.identifier = F8BD7B6E;
+};
+}
+);
+width = 1297;
+}
+);
+unicode = 3470;
+}

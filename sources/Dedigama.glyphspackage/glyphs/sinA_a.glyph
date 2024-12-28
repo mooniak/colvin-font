@@ -1,0 +1,27 @@
+{
+glyphname = sinAa;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+alignment = -1;
+ref = sinA;
+userData = {
+UFO.identifier = 22DAE65D;
+};
+},
+{
+alignment = -1;
+pos = (530,0);
+ref = sinMatraAa;
+userData = {
+UFO.identifier = 73F680A3;
+};
+}
+);
+width = 837;
+}
+);
+unicode = 3462;
+}

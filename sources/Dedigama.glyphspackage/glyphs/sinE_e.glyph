@@ -1,0 +1,20 @@
+{
+glyphname = sinEe;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+pos = (626,-2);
+ref = sinVirama;
+},
+{
+pos = (-20,0);
+ref = sinE;
+}
+);
+width = 636;
+}
+);
+unicode = 3474;
+}

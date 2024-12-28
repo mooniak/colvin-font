@@ -1,0 +1,26 @@
+{
+glyphname = sinTIi;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+alignment = -1;
+ref = sinTa;
+userData = {
+UFO.identifier = F2A342C7;
+};
+},
+{
+alignment = -1;
+pos = (416,-1);
+ref = sinMatraIi.alt1;
+userData = {
+UFO.identifier = 4EAB854A;
+};
+}
+);
+width = 724;
+}
+);
+}

@@ -1,0 +1,26 @@
+{
+glyphname = sinGhRa;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+alignment = -1;
+ref = sinGha;
+userData = {
+UFO.identifier = C31363BA;
+};
+},
+{
+alignment = -1;
+pos = (696,-18);
+ref = sinRakar.short;
+userData = {
+UFO.identifier = 7F7AE377;
+};
+}
+);
+width = 691;
+}
+);
+}

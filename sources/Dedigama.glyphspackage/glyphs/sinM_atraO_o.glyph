@@ -1,0 +1,23 @@
+{
+glyphname = sinMatraOo;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+pos = (784,0);
+ref = sinVirama;
+},
+{
+pos = (663,-3);
+ref = sinMatraAa;
+},
+{
+ref = sinMatraE;
+}
+);
+width = 955;
+}
+);
+unicode = 3549;
+}

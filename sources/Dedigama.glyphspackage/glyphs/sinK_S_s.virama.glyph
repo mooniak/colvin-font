@@ -1,0 +1,19 @@
+{
+glyphname = sinKSs.virama;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+pos = (1026,26);
+ref = sinVirama;
+},
+{
+pos = (-15,0);
+ref = sinKSsa;
+}
+);
+width = 1217;
+}
+);
+}

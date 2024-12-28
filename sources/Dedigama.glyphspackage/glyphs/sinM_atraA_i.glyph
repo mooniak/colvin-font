@@ -1,0 +1,28 @@
+{
+glyphname = sinMatraAi;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+alignment = -1;
+pos = (14,0);
+ref = sinMatraE;
+userData = {
+UFO.identifier = DD8715FB;
+};
+},
+{
+alignment = -1;
+pos = (567,-1);
+ref = sinMatraE;
+userData = {
+UFO.identifier = E1891C45;
+};
+}
+);
+width = 1171;
+}
+);
+unicode = 3547;
+}

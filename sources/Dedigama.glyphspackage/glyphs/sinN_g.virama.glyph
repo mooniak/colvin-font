@@ -1,0 +1,9 @@
+{
+glyphname = sinNg.virama;
+layers = (
+{
+layerId = m001;
+width = 462;
+}
+);
+}

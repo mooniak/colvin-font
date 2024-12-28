@@ -1,0 +1,27 @@
+{
+glyphname = sinTRI;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+alignment = -1;
+pos = (748,-1);
+ref = sinMatraI.alt1;
+userData = {
+UFO.identifier = A9F8D914;
+};
+},
+{
+alignment = -1;
+pos = (12,0);
+ref = sinTRa;
+userData = {
+UFO.identifier = 9586829F;
+};
+}
+);
+width = 775;
+}
+);
+}

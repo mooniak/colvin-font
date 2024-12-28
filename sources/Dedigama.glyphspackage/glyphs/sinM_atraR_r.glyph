@@ -1,0 +1,27 @@
+{
+glyphname = sinMatraRr;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+alignment = -1;
+pos = (281,0);
+ref = sinMatraR;
+userData = {
+UFO.identifier = B4651E27;
+};
+},
+{
+alignment = -1;
+ref = sinMatraR;
+userData = {
+UFO.identifier = D195C564;
+};
+}
+);
+width = 622;
+}
+);
+unicode = 3570;
+}

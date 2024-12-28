@@ -1,0 +1,18 @@
+{
+glyphname = sinGh.virama;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+ref = sinGha;
+},
+{
+pos = (693,-1);
+ref = sinVirama;
+}
+);
+width = 691;
+}
+);
+}

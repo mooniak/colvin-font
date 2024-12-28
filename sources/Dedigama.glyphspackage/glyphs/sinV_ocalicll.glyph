@@ -1,0 +1,27 @@
+{
+glyphname = sinVocalicll;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+alignment = -1;
+ref = sinVocalicl;
+userData = {
+UFO.identifier = 52EABC23;
+};
+},
+{
+alignment = -1;
+pos = (1004,0);
+ref = sinMatraLs;
+userData = {
+UFO.identifier = A6D8746A;
+};
+}
+);
+width = 1472;
+}
+);
+unicode = 3472;
+}

@@ -1,0 +1,9 @@
+{
+glyphname = sinGhR.virama;
+layers = (
+{
+layerId = m001;
+width = 462;
+}
+);
+}

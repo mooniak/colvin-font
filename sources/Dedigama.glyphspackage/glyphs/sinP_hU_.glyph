@@ -1,0 +1,18 @@
+{
+glyphname = sinPhU;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+ref = sinPha;
+},
+{
+pos = (581,1);
+ref = sinMatraU;
+}
+);
+width = 595;
+}
+);
+}

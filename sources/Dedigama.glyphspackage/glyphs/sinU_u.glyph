@@ -1,0 +1,28 @@
+{
+glyphname = sinUu;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+alignment = -1;
+pos = (600,-72);
+ref = sinMatraLs;
+userData = {
+UFO.identifier = F351AD9C;
+};
+},
+{
+alignment = -1;
+pos = (0,-24);
+ref = sinU;
+userData = {
+UFO.identifier = 8374B598;
+};
+}
+);
+width = 1071;
+}
+);
+unicode = 3468;
+}

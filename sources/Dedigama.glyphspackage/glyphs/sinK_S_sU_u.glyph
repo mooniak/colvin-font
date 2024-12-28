@@ -1,0 +1,26 @@
+{
+glyphname = sinKSsUu;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+alignment = -1;
+ref = sinKSsa;
+userData = {
+UFO.identifier = 2C2C2871;
+};
+},
+{
+alignment = -1;
+pos = (1101,3);
+ref = sinMatraUu.alt;
+userData = {
+UFO.identifier = B6F905CE;
+};
+}
+);
+width = 1064;
+}
+);
+}

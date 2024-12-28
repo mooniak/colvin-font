@@ -1,0 +1,17 @@
+{
+glyphname = exclamdown;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+angle = 180;
+pos = (230,604);
+ref = exclam;
+}
+);
+width = 254;
+}
+);
+unicode = 161;
+}

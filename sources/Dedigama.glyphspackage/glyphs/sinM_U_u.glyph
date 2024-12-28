@@ -1,0 +1,18 @@
+{
+glyphname = sinMUu;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+ref = sinMa;
+},
+{
+pos = (658,0);
+ref = sinMatraUu;
+}
+);
+width = 681;
+}
+);
+}
