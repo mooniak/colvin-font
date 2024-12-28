@@ -23,7 +23,7 @@ AUXILIARY_FONT_SIZE = 48
 
 # Update BIG_TEXT for multiple lines
 
-BIG_TEXT_LINES = ["පබාවතී?", "මොකටද", "ආදර මල් "]
+BIG_TEXT_LINES = ["ටියුෂන්", "හවසට", "දුයිෂෙන් "]
 BIG_TEXT_FONT_SIZE = 400
 BIG_TEXT_SIDE_MARGIN = MARGIN * 1
 BIG_TEXT_BOTTOM_MARGIN = MARGIN * 3
