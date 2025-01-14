@@ -8,11 +8,11 @@ shapes = (
 ref = sinGha;
 },
 {
-pos = (693,-1);
+pos = (691,0);
 ref = sinVirama;
 }
 );
-width = 691;
+width = 692;
 }
 );
 }

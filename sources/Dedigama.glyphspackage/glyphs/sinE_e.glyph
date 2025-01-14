@@ -5,15 +5,14 @@ layers = (
 layerId = m001;
 shapes = (
 {
-pos = (626,-2);
 ref = sinVirama;
 },
 {
-pos = (-20,0);
+pos = (1,0);
 ref = sinE;
 }
 );
-width = 636;
+width = 607;
 }
 );
 unicode = 3474;

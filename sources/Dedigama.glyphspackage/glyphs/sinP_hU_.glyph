@@ -8,7 +8,7 @@ shapes = (
 ref = sinPha;
 },
 {
-pos = (581,1);
+pos = (595,0);
 ref = sinMatraU;
 }
 );

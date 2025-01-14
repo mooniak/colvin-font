@@ -710,7 +710,7 @@ value = MNIK;
 },
 {
 key = versionString;
-value = "Version 0.001; DEV";
+value = "Version 0.001; DEV; alpha";
 }
 );
 settings = {

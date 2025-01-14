@@ -5,15 +5,14 @@ layers = (
 layerId = m001;
 shapes = (
 {
-pos = (729,-2);
 ref = sinVirama;
 },
 {
-pos = (10,0);
+pos = (1,0);
 ref = sinBha;
 }
 );
-width = 737;
+width = 702;
 }
 );
 }
